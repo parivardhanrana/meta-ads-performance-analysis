@@ -28,8 +28,12 @@ I analysed cost per lead across age brackets to identify differences in lead-gen
 | Metric | Result |
 |---|---:|
 | Previous CPL | ₹40 |
-| Updated CPL | ₹25 |
-| CPL reduction | 37.5% |
+| Updated CPL | ₹29 |
+| CPL reduction | 27.5% |
+
+The reported cost per lead decreased from ₹40 to ₹29 following campaign analysis and optimisation.
+
+*Add the reporting period and measurement context before publishing this result as a verified outcome.*
 
 The reported cost per lead decreased from ₹40 to ₹25 following campaign analysis and optimisation.
 

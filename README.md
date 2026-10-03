@@ -17,6 +17,12 @@ Digital Marketing Executive
 - Used campaign insights to inform optimisation recommendations.
 - Worked on automating reporting and AI-assisted analysis.
 
+### Audience Performance Analysis
+
+I analysed cost per lead across age brackets to identify differences in lead-generation efficiency and inform optimisation recommendations.
+
+![Age Group Performance](age%20grp%20performance%20screenshot.png)
+
 ## Reported Outcome
 **CPL: ₹40 → ₹25**
 

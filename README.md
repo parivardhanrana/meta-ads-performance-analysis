@@ -24,9 +24,16 @@ I analysed cost per lead across age brackets to identify differences in lead-gen
 ![Age Group Performance](age%20grp%20performance%20screenshot.png)
 
 ## Reported Outcome
-**CPL: ₹40 → ₹25**
 
-This is a reported 37.5% reduction in cost per lead. Add the campaign period, baseline, and measurement context before publishing this result as a verified outcome.
+| Metric | Result |
+|---|---:|
+| Previous CPL | ₹40 |
+| Updated CPL | ₹25 |
+| CPL reduction | 37.5% |
+
+The reported cost per lead decreased from ₹40 to ₹25 following campaign analysis and optimisation.
+
+*Add the campaign name (if shareable), reporting period, and measurement context before publishing this result as a verified outcome.*
 
 ## Tools
 Meta Ads Manager · n8n · AI-assisted reporting · Reporting and spreadsheet tools used in the project
